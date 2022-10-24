@@ -38,7 +38,7 @@ def solucion():
     catalogar_ruedas(vehiculo)
     catalogar_ruedas(vehiculo, 0)
     catalogar_ruedas(vehiculo, 2)
-    #catalogar_ruedas(vehiculo, 4)
+    catalogar_ruedas(vehiculo, 4)
 
 
 
