@@ -35,9 +35,9 @@ def solucion():
     #print("\n",E)
     vehiculo.append(E)
     catalogar(vehiculo)
-    #catalogar_ruedas(vehiculo)
-    #catalogar_ruedas(vehiculo, 0)
-    #catalogar_ruedas(vehiculo, 2)
+    catalogar_ruedas(vehiculo)
+    catalogar_ruedas(vehiculo, 0)
+    catalogar_ruedas(vehiculo, 2)
     #catalogar_ruedas(vehiculo, 4)
 
 
